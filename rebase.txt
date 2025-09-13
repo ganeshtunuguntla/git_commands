@@ -1,5 +1,8 @@
 
-this is in reset file - > doing it for checkin the reset commnad
+
 
 
 changed to rebase file name
+
+checking for the rebase commnad
+
